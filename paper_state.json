@@ -1,0 +1,23 @@
+{
+  "initial_usdt": 10.0,
+  "coins": {
+    "BTC": {
+      "cash": 970000.0,
+      "quantity": 0.0,
+      "buy_price": null,
+      "reference": 17172748852.0
+    },
+    "ETH": {
+      "cash": 970000.0,
+      "quantity": 0.0,
+      "buy_price": null,
+      "reference": 477521058.0
+    },
+    "XRP": {
+      "cash": 970000.0,
+      "quantity": 0.0,
+      "buy_price": null,
+      "reference": 266646.0
+    }
+  }
+}
