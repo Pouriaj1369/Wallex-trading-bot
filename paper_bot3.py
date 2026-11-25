@@ -5,7 +5,7 @@ import urllib.request
 URL = "https://api.wallex.ir/hector/web/v1/markets"
 STATE_FILE = "paper_state.json"
 
-INITIAL_USDT = 10.0
+INITIAL_USDT = 17
 COINS = ["BTC", "ETH", "XRP"]
 BUY_DROP = 0.01
 SELL_RISE = 0.015
